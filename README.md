@@ -51,3 +51,19 @@ RLAP.iso
 ├── ...
 ├── p058
 ```
+
+## Request and download RLAP dataset  
+If you wish to obtain the RLAP dataset, please send an email to kegangwang@mails.ccnu.edu.cn and cc yantaowei@ccnu.edu.cn, with the Data Usage Agreement attached. 
+Once you obtain the permission, you will receive a signed link. The signature is valid for 14 days, please download as soon as possible.  
+`wget -c https://dataport.kegang.wang/RLAP.iso?auth=<your_sign> -O RLAP.iso`  
+The entire file is approximately 642GB, supports resumable downloads, and if the download is interrupted, re-entering the above command will continue downloading from where it left off.  
+
+## Mount RLAP dataset  
+For Windows users, simply open RLAP.iso with File Explorer to automatically mount it.  
+For Linux users, please create an empty folder for mounting.  
+```
+sudo mkdir ./RLAP 
+sudo mount ./RLAP.iso ./RLAP -o loop
+cd RLAP
+```
+It is not recommended to use software like 7-zip to extract files.
