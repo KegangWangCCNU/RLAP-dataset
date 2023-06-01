@@ -10,6 +10,12 @@ In recent years, remote physiological sensing has received increasing attention,
 
 The RLAP dataset includes videos of 58 student participants involved in a series of tasks, collected using PhysRecorder software with Logitech C930c webcam and Contec CMS50E pulse oximeter, released as an ISO image.
 
+## Samples  
+
+|1|2|3|4|5|6|7|8|9|
+|-|-|-|-|-|-|-|-|-|  
+|![image](https://github.com/KegangWangCCNU/PICS/blob/main/examples/1_.jpg?raw=true)|![image](https://github.com/KegangWangCCNU/PICS/blob/main/examples/2_.jpg?raw=true)|![image](https://github.com/KegangWangCCNU/PICS/blob/main/examples/3_.jpg?raw=true)|![image](https://github.com/KegangWangCCNU/PICS/blob/main/examples/4_.jpg?raw=true)|![image](https://github.com/KegangWangCCNU/PICS/blob/main/examples/5_.jpg?raw=true)|![image](https://github.com/KegangWangCCNU/PICS/blob/main/examples/6_.jpg?raw=true)|![image](https://github.com/KegangWangCCNU/PICS/blob/main/examples/7_.jpg?raw=true)|![image](https://github.com/KegangWangCCNU/PICS/blob/main/examples/8_.jpg?raw=true)|![image](https://github.com/KegangWangCCNU/PICS/blob/main/examples/9_.jpg?raw=true)|
+
 ## Experiment procedure  
 
 |Step|Label|Task|Duration(S)|  
