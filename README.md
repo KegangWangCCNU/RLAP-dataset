@@ -26,7 +26,7 @@ The RLAP dataset includes videos of 58 student participants involved in a series
 |10|E6|Watch yawn videos|60|  
 |11|T1|Video-based learning|240|  
 |12|T2|Textbook-based learning|480|  
-|13|T3|Watch a class|420|  
+|13|T3|Watch a public class|420|  
 
 ## FIle structure  
 
