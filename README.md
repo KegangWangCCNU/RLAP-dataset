@@ -6,6 +6,9 @@ The Remote Learning Affect and Physiologic (RLAP) dataset is a dataset applied t
 
 In recent years, remote physiological sensing has received increasing attention, especially the algorithms using neural networks. However, training a model for extracting physiological signals is not easy. The lack of high-quality datasets limits the development of advanced algorithms, and many models have to add some modules to fight against the "noise" in the dataset. The main noises are: offset caused by no strict synchronization between cameras and physiological signal sensors; data loss during video compression due to device's unsupported or incorrect settings. The RLAP dataset is collected using PhysRecorder to minimize any adverse factors for model training as much as possible. According to PhysBench's experimental results, this is known as the best training set so far.
 
+## PhysRecorder recording tool
+If you want to learn about the details of data collection and hardware and software equipment, or collect your own dataset using the same method, please visit https://github.com/KegangWangCCNU/PhysRecorder
+
 ## RLAP dataset  
 
 The RLAP dataset includes videos of 58 student participants involved in a series of tasks, collected using PhysRecorder software with Logitech C930c webcam and Contec CMS50E pulse oximeter, released as an ISO image.
