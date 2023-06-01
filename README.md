@@ -34,7 +34,7 @@ The RLAP dataset includes videos of 58 student participants involved in a series
 |12|T2|Textbook-based learning|480|  
 |13|T3|Watch a public class|420|  
 
-## FIle structure  
+## File structure  
 
 ```
 RLAP.iso
