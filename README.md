@@ -85,7 +85,7 @@ https://github.com/KegangWangCCNU/PhysBench
 
 ## Citation  
 
-If you use PhysBench framework, PhysRecorder data collection tool, or the models included in this framework, please cite the following <a href="https://github.com/KegangWangCCNU/PICS/raw/main/PhysBench.pdf" target="_blank">paper</a>
+If you use PLAP dataset, please cite the following <a href="https://github.com/KegangWangCCNU/PICS/raw/main/PhysBench.pdf" target="_blank">paper</a>
 ```
 @misc{wang2023physbench,
       title={PhysBench: A Benchmark Framework for Remote Physiological Sensing with New Dataset and Baseline}, 
