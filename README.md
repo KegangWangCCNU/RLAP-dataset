@@ -73,3 +73,22 @@ sudo mount ./RLAP.iso ./RLAP -o loop
 cd RLAP
 ```
 It is not recommended to use software like 7-zip to extract files.
+
+## Training framework  
+
+It is recommended to use the PhysBench framework for training, which supports the RLAP dataset and multiple public datasets.  
+https://github.com/KegangWangCCNU/PhysBench
+
+## Citation  
+
+If you use PhysBench framework, PhysRecorder data collection tool, or the models included in this framework, please cite the following <a href="https://github.com/KegangWangCCNU/PICS/raw/main/PhysBench.pdf" target="_blank">paper</a>
+```
+@misc{wang2023physbench,
+      title={PhysBench: A Benchmark Framework for Remote Physiological Sensing with New Dataset and Baseline}, 
+      author={Kegang Wang and Yantao Wei and Mingwen Tong and Jie Gao and Yi Tian and YuJian Ma and ZhongJin Zhao},
+      year={2023},
+      eprint={2305.04161},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
