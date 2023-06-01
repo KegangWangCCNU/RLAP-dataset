@@ -41,9 +41,9 @@ RLAP.iso
 ├── p001
     ├── R1                          # Relaxed.
         ├── pictures_ZIP_RAW_RGB    # Raw RGB video.
-                  ├── 00000000.png  # PNG lossless format.
-                  ├── 00000001.png
-                  ├── ...
+            ├── 00000000.png        # PNG lossless format.
+            ├── 00000001.png
+            ├── ...
         ├── video_ZIP_H264.mp4      # H264 format.
         ├── video_ZIP_MJPG.avi      # MJPG format.
         ├── BVP.csv                 # BVP wavefrom with UNIX timestamps.
