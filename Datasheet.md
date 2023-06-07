@@ -6,11 +6,11 @@
 
 1. **Who created this dataset (e.g., which team, research group) and on behalf of which entity (e.g., company, institution, organization)?**
 
-    Master's student Kegang Wang developed the dataset collection program, with guidance from his supervisor Yantao Wei. Other graduate students in the team collaborated on the data collection process; for more information, please refer to the nutrition label. All researchers are from Central China Normal University (CCNU).  
+    Hubei Research Center for Educational Informatization (HRCEI), affiliated with Central China Normal University (CCNU). Master's student Kegang Wang developed the dataset collection program, with guidance from his supervisor Yantao Wei. Other graduate students in the team collaborated on the data collection process; for more information, please refer to the nutrition label. All researchers are from Central China Normal University (CCNU).  
 
 1. **Who funded the creation of the dataset?** *(If there is an associated grant, please provide the name of the grantor and the grant name and number.)*
 
-    The funding for data collection is provided by Central China Normal University (CCNU).  
+    This work was supported in part by the National Natural Science Foundation of China under Grant 62277029, the National Collaborative Innovation Experimental Base Construction Project for Teacher Development of Central China Normal University under Grant CCNUTEIII-2021-19, the Humanities and Social Sciences of China MOE under Grants 20YJC880100.
 
 1. **Any other comments?**  
 
