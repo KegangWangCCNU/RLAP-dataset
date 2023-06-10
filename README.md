@@ -59,6 +59,9 @@ RLAP.iso
     ├── T3
 ├── ...
 ├── p058
+├── EEQ_Emotion ···.csv             # Self-emotion report form for each participant.
+├── participants.csv                # Basic information of each participant, without involving privacy.
+├── EEQ.mp4                         # Video materials for guiding spontaneous emotional expression.
 ```
 
 ## Request and download RLAP dataset  
