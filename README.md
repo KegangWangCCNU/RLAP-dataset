@@ -64,6 +64,11 @@ RLAP.iso
 ├── EEQ.mp4                         # Video materials for guiding spontaneous emotional expression.
 ```
 
+## Dataset Partition  
+Please download the `Dataset Nutrition Label.ods`, which includes the division of each sample. Fold 0 and fold 4 are used for validation and testing, while folds 1, 2, and 3 are used for training.  
+
+**A small amount of excluded data is marked as -1 fold.**  
+
 ## Request and download RLAP dataset  
 If you wish to obtain the RLAP dataset, please send an email to kegangwang@mails.ccnu.edu.cn and cc yantaowei@ccnu.edu.cn, with the [Data Usage Agreement](https://github.com/KegangWangCCNU/RLAP-dataset/blob/main/RLAP%20Data%20Usage%20Agreement.pdf) attached. 
 Once you obtain the permission, you will receive a signed link. The signature is valid for 14 days, please download as soon as possible.  
